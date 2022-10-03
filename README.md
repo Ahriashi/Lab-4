@@ -6,5 +6,6 @@
 Программа для нахождение оптимальной рассадки людей в такси, для максимальной экономии при поездках.  
 Программу можно открыть в любой среде разработки для Python, написана в PyCharm 
 # Скриншоты тестов  
-![1 ](https://user-images.githubusercontent.com/113824104/193467925-0ae26510-5a39-4a25-aafe-4216df0e2bc9.jpg)
-![2](https://user-images.githubusercontent.com/113824104/193467931-7232b369-b482-40c4-8ce3-adb090fbe6b0.jpg)
+![1](https://user-images.githubusercontent.com/113824104/193636859-1bc36c21-dd13-4bf8-ab90-da60549e7b8b.jpg)
+![2](https://user-images.githubusercontent.com/113824104/193636871-5605bd57-45f1-4832-a173-20d2e2a4d409.jpg)
+
