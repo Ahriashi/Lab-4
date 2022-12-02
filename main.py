@@ -29,7 +29,7 @@ while True:
             taxi = list(map(int, input("Введите тарифы за проезд одного километра, используя пробел: ").split())) #Заполняем список тарифов
             break
         except ValueError:
-            print("Введите тарифы ЦИФРАМИ, через пробел")
+            print("Введите тарифы цифрами, через пробел")
     for i in range(n):#Заполняем массивы
         people[i] = (people[i], i + 1)
     for i in range(n):
